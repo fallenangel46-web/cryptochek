@@ -1,10 +1,7 @@
-[![GitHub stars](https://img.shields.io/github/stars/username/cryptocheck?style=social)](https://github.com/fallenangel46-web/cryptochek/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/username/cryptocheck?style=social)](https://github.com/fallenangel46-web/cryptochek/forks)
-[![License](https://img.shields.io/github/license/username/cryptocheck)](https://github.com/fallenangel46-web/cryptochek/blob/main/LICENSE)
-
-
 <div align="center">
-  
+
+[![Version](https://img.shields.io/badge/version-2.46-blue.svg?style=for-the-badge&logo=appveyor)](https://github.com/fallenangel46-web/cryptochek/releases/tag/crypto) 
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 
 ![Header Banner](https://i.ibb.co/60VHpJNZ/1.jpg)
